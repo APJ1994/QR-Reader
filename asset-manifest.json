@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR-Reader/static/css/main.99cc8f21.css",
+    "main.js": "/QR-Reader/static/js/main.cbd1e642.js",
+    "static/js/787.28cb0dcd.chunk.js": "/QR-Reader/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/QR-Reader/index.html",
+    "main.99cc8f21.css.map": "/QR-Reader/static/css/main.99cc8f21.css.map",
+    "main.cbd1e642.js.map": "/QR-Reader/static/js/main.cbd1e642.js.map",
+    "787.28cb0dcd.chunk.js.map": "/QR-Reader/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99cc8f21.css",
+    "static/js/main.cbd1e642.js"
+  ]
+}
