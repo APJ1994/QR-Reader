@@ -10,15 +10,37 @@ h1, p {
     margin: top 2rem;
   }
 
+  *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:consolas;
+  }
+
+  body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 100vh;
+    background-color: black;
+  }
+
   .QrReader{
+    position:relative;
+    background:url(../public/qr.png);
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 2rem;
+    background-size:400px;
   }
 
   .QrReaderContainer{
     margin-top: 1rem;
+    position:relative;
+    display:flex;
+    align-items:center;
+    flex-direction: column;
   }
 
   .QrReader{
